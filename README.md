@@ -51,10 +51,3 @@
   ![alt text](https://github.com/Sayward-k8/sdb-hw-03/blob/main/img/4.png)
   
 </details> 
-
-
-# Решение 5
-
-<details>
-
-</details> 
