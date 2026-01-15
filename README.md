@@ -9,6 +9,8 @@
 
 <details>
 
+![alt text](https://github.com/Sayward-k8/sdb-hw-03/blob/main/img/1.1.png)
+
 </details> 
 
 # Задание 2. Kibana
@@ -19,6 +21,8 @@
 # Решение 2
 
 <details>
+
+  ![alt text](https://github.com/Sayward-k8/sdb-hw-03/blob/main/img/2.png)
 
 </details> 
 
@@ -31,6 +35,8 @@
 
 <details>
 
+  ![alt text](https://github.com/Sayward-k8/sdb-hw-03/blob/main/img/3.1.png)
+
 </details> 
 
 # Задание 4. Filebeat.
@@ -42,12 +48,10 @@
 
 <details>
 
+  ![alt text](https://github.com/Sayward-k8/sdb-hw-03/blob/main/img/4.png)
+  
 </details> 
 
-# Задание 5*. Доставка данных
-Настройте поставку лога в Elasticsearch через Logstash и Filebeat любого другого сервиса , но не Nginx. Для этого лог должен писаться на файловую систему, Logstash должен корректно его распарсить и разложить на поля.
-
-Приведите скриншот интерфейса Kibana, на котором будет виден этот лог и напишите лог какого приложения отправляется.
 
 # Решение 5
 
